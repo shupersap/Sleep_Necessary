@@ -1,0 +1,4 @@
+Develop a machine learning algorithm to analyze given data, and determine best time to sleep and improve accomanying sleep habits
+Target demographic: Young adolescense and children
+check out sleep disorder census
+cause of sleep disorder: technology, games, social media, lack of phyiscal activity, eyesight, hormone imbalance, drugs, off-set routine, caffeine, eating periods, use of bed, bedtime rituals
