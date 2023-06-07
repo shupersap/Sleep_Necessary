@@ -2,3 +2,4 @@ Develop a machine learning algorithm to analyze given data, and determine best t
 Target demographic: Young adolescense and children
 check out sleep disorder census
 cause of sleep disorder: technology, games, social media, lack of phyiscal activity, eyesight, hormone imbalance, drugs, off-set routine, caffeine, eating periods, use of bed, bedtime rituals
+gauges: subjective:1-10 rating; objective: Rem sleep quanitity, sleep apnea test
